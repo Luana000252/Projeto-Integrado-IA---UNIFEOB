@@ -1,0 +1,13 @@
+text,label
+"Prezados, favor confirmar fatura; clique no link para pagar",phishing
+"Solicito manutenção da batedeira. Modelo X-123. Contato: 99999-9999",legit
+"Atualize suas informações de pagamento aqui: http://fake-bank.com",phishing
+"Bom dia, preciso de revisão do forno. CPF 123.456.789-00",legit
+"Seu pacote está em atraso. Clique e confirme seus dados",phishing
+"A máquina está com ruído. Agendar manutenção, agradeço",legit
+"Temos uma oferta exclusiva. Confirme seus dados bancários",phishing
+"Olá, técnico, a serra-fita parou, modelo S-9, favor agendar",legit
+"Atualize senha e dados para evitar bloqueio",phishing
+"Solicito visita técnica. Email: cliente@padaria.com",legit
+"Favor enviar comprovante e dados do cartão",phishing
+"Manutenção preventiva solicitada mensalmente, obrigado",legit
