@@ -1,5 +1,19 @@
 # 🔍 Analisador de Texto com IA
 
+EQUIPE DOS ESTUDANTES NO PROJETO
+
+RA: 24002149
+NOME: Luana da Silva Araújo
+
+RA: 24002167
+NOME: Thiago Perinoto Correa
+
+RA: 24002072
+NOME: Anna Beatriz de Carvalho Rosa
+
+RA: 24001738
+NOME: Eduarda Celina Ezequiel Maltempe
+
 Sistema de análise de texto com inteligência artificial para detecção de informações pessoais (PII) e avaliação de riscos, desenvolvido com tema cyberpunk/neon.
 
 ## ✨ Características
